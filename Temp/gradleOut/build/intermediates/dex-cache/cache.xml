@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/gradleOut/build/intermediates/exploded-aar/VuforiaWrapper/jars/classes.jar"
+        jumboMode="false"
+        revision="27.0.2"
+        sha1="2b8a2afdb13b52c5d849d56e31664dccfa665fba">
+        <dex dex="/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/gradleOut/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-VuforiaWrapper_ad36e4a30294eed0deade797ad14e0a042749899.jar" />
+    </item>
+    <item
+        jar="/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        revision="27.0.2"
+        sha1="37bbe4406c64b2f4de41a220203bc25e6401ca22">
+        <dex dex="/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/gradleOut/build/intermediates/pre-dexed/debug/unity-classes_7dafd02c881ef817131ec2f567e4cffb5945cc6f.jar" />
+    </item>
+    <item
+        jar="/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/gradleOut/build/intermediates/exploded-aar/VuforiaWrapper/jars/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        revision="27.0.2"
+        sha1="d6a35c8f1334384a0a3bb2738686a98860dcac9b">
+        <dex dex="/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/gradleOut/build/intermediates/pre-dexed/debug/VuforiaUnityPlayer_b17d1277f54014034558f9459f312c5d141de05e.jar" />
+    </item>
+    <item
+        jar="/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/gradleOut/build/intermediates/exploded-aar/VuforiaWrapper/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        revision="27.0.2"
+        sha1="a9909d13ba5e2fd4a1a41844fad84b55f54dab10">
+        <dex dex="/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/gradleOut/build/intermediates/pre-dexed/debug/Vuforia_a1326148947c6e027907030b410adad3963542f7.jar" />
+    </item>
+
+</items>
