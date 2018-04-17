@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.abhinavdev.myspace"
+    package="com.testingdev.myspace"
     android:installLocation="preferExternal"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -80,7 +80,7 @@
 
         <meta-data
             android:name="unity.build-id"
-            android:value="b00ffcfb-83e5-4606-94c5-51b6c943031a" />
+            android:value="22a8f860-5b3c-41a7-aa87-8fe1fca8229f" />
         <meta-data
             android:name="unity.splash-mode"
             android:value="0" />

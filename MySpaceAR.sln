@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySpaceAR", "Assembly-CSharp.csproj", "{CA8DABFC-5ABC-E5E6-070F-ACB0044E8238}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySpaceAR", "Assembly-CSharp-firstpass.csproj", "{4C2A4B3F-5628-3BB8-5A28-E42267A8D316}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySpaceAR", "Assembly-CSharp-Editor.csproj", "{FEE2A603-11F7-FB19-ED92-89B8F18B4D61}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{CA8DABFC-5ABC-E5E6-070F-ACB0044E8238}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA8DABFC-5ABC-E5E6-070F-ACB0044E8238}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA8DABFC-5ABC-E5E6-070F-ACB0044E8238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2A4B3F-5628-3BB8-5A28-E42267A8D316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2A4B3F-5628-3BB8-5A28-E42267A8D316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2A4B3F-5628-3BB8-5A28-E42267A8D316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2A4B3F-5628-3BB8-5A28-E42267A8D316}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FEE2A603-11F7-FB19-ED92-89B8F18B4D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FEE2A603-11F7-FB19-ED92-89B8F18B4D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEE2A603-11F7-FB19-ED92-89B8F18B4D61}.Release|Any CPU.ActiveCfg = Release|Any CPU

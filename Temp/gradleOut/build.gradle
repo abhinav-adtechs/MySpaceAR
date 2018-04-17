@@ -30,7 +30,7 @@ android {
 
 	defaultConfig {
 		targetSdkVersion 27
-		applicationId 'com.abhinavdev.myspace'
+		applicationId 'com.testingdev.myspace'
 	}
 
 	lintOptions {

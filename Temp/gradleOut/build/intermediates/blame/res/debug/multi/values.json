@@ -7,8 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 46,
-                    "endOffset": 97
+                    "endColumn": 49,
+                    "endOffset": 100
                 },
                 "from": {
                     "file": "/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/gradleOut/src/main/res/values/strings.xml",
@@ -16,8 +16,8 @@
                         "startLine": 2,
                         "startColumn": 2,
                         "startOffset": 53,
-                        "endColumn": 44,
-                        "endOffset": 95
+                        "endColumn": 47,
+                        "endOffset": 98
                     }
                 }
             },
@@ -25,10 +25,10 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 102,
+                    "startOffset": 105,
                     "endLine": 4,
                     "endColumn": 8,
-                    "endOffset": 195
+                    "endOffset": 198
                 },
                 "from": {
                     "file": "/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/gradleOut/src/main/res/values/styles.xml",

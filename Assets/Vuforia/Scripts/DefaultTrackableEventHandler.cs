@@ -109,12 +109,24 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 			MonoBehaviour notifUpdate = text.GetComponent<UpdateNotification> ();
 
 
-			NotificationData notifData = new NotificationData ();
+			/*NotificationData notifData ;
 			notifData =  JsonUtility.FromJson<NotificationData> (www.text); 
+			if (notifData == null) {
+				Debug.Log ("NOTIF DATA IS NULL");
+			} else {
+				Debug.Log ("NOTIF DATA IS NOT NULL" + notifData.data);
+			}
+
+			if (notifData.data == null) {
+				Debug.Log ("NOTIF DATA.DATA IS NULL");
+			} else {
+				Debug.Log ("NOTIF DATA.DATA IS NOT NULL" + notifData.data);
+			}*/
+
 			//List<NotificationData.NotificationItem> notifications = new List<NotificationData.NotificationItem>(notifData.data);
-			Debug.Log ("HELOIE: " + notifData.data[0].data.Length);
+			//Debug.Log ("HELOIE: " + notifData.data[0]);
 			((UpdateNotification)notifUpdate).Start ();
-			((UpdateNotification)notifUpdate).postNotification (www.text);
+			//((UpdateNotification)notifUpdate).postNotification (www.text);
 
 
 		} else {

@@ -1,3 +1,7 @@
+/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/abhinav/AndroidStudioProjects/MySpaceAR/obj/Debug/Assembly-CSharp.dll
+/Users/abhinav/AndroidStudioProjects/MySpaceAR/obj/Debug/Assembly-CSharp.dll.mdb
 /Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/UnityEngine.dll
 /Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/UnityEditor.dll
 /Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/UnityEngine.UIAutomation.dll
@@ -12,6 +16,8 @@
 /Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/Vuforia.UnityExtensions.dll
 /Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/UnityEngine.Analytics.dll
 /Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
 /Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/Unity.Cecil.dll
 /Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/Unity.SerializationLogic.dll
 /Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/ExCSS.Unity.dll
@@ -22,7 +28,3 @@
 /Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/Unity.Cecil.Pdb.dll
 /Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/Unity.Cecil.Mdb.dll
-/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/Assembly-CSharp.dll.mdb
-/Users/abhinav/AndroidStudioProjects/MySpaceAR/Temp/bin/Debug/Assembly-CSharp.dll
-/Users/abhinav/AndroidStudioProjects/MySpaceAR/obj/Debug/Assembly-CSharp.dll
-/Users/abhinav/AndroidStudioProjects/MySpaceAR/obj/Debug/Assembly-CSharp.dll.mdb
